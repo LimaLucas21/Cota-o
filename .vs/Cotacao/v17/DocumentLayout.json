@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\Balta\\02\\Cotacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{177FDC3E-838F-4199-8F5B-CC0A9392164B}|Cotacao.csproj|c:\\users\\lucas\\onedrive\\documentos\\estudo\\balta\\02\\cotacao\\pdf\\gerarpdfbcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177FDC3E-838F-4199-8F5B-CC0A9392164B}|Cotacao.csproj|solutionrelative:pdf\\gerarpdfbcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177FDC3E-838F-4199-8F5B-CC0A9392164B}|Cotacao.csproj|c:\\users\\lucas\\onedrive\\documentos\\estudo\\balta\\02\\cotacao\\interacoes\\interacaobcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177FDC3E-838F-4199-8F5B-CC0A9392164B}|Cotacao.csproj|solutionrelative:interacoes\\interacaobcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177FDC3E-838F-4199-8F5B-CC0A9392164B}|Cotacao.csproj|c:\\users\\lucas\\onedrive\\documentos\\estudo\\balta\\02\\cotacao\\cotacao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{177FDC3E-838F-4199-8F5B-CC0A9392164B}|Cotacao.csproj|solutionrelative:cotacao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177FDC3E-838F-4199-8F5B-CC0A9392164B}|Cotacao.csproj|c:\\users\\lucas\\onedrive\\documentos\\estudo\\balta\\02\\cotacao\\caminho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177FDC3E-838F-4199-8F5B-CC0A9392164B}|Cotacao.csproj|solutionrelative:caminho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177FDC3E-838F-4199-8F5B-CC0A9392164B}|Cotacao.csproj|c:\\users\\lucas\\onedrive\\documentos\\estudo\\balta\\02\\cotacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177FDC3E-838F-4199-8F5B-CC0A9392164B}|Cotacao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GerarPdfBcb.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\Balta\\02\\Cotacao\\PDF\\GerarPdfBcb.cs",
+              "RelativeDocumentMoniker": "PDF\\GerarPdfBcb.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\Balta\\02\\Cotacao\\PDF\\GerarPdfBcb.cs",
+              "RelativeToolTip": "PDF\\GerarPdfBcb.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA4wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T00:42:03.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InteracaoBCB.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\Balta\\02\\Cotacao\\Interacoes\\InteracaoBCB.cs",
+              "RelativeDocumentMoniker": "Interacoes\\InteracaoBCB.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\Balta\\02\\Cotacao\\Interacoes\\InteracaoBCB.cs",
+              "RelativeToolTip": "Interacoes\\InteracaoBCB.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T23:07:45.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Caminho.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\Balta\\02\\Cotacao\\Caminho.cs",
+              "RelativeDocumentMoniker": "Caminho.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\Balta\\02\\Cotacao\\Caminho.cs",
+              "RelativeToolTip": "Caminho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:11:02.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cotacao.csproj",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\Balta\\02\\Cotacao\\Cotacao.csproj",
+              "RelativeDocumentMoniker": "Cotacao.csproj",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\Balta\\02\\Cotacao\\Cotacao.csproj",
+              "RelativeToolTip": "Cotacao.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T01:36:52.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\Balta\\02\\Cotacao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Estudo\\Balta\\02\\Cotacao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAgwFsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:30:57.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
